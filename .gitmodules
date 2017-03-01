@@ -1,0 +1,3 @@
+[submodule "NTFSSecurity"]
+	path = NTFSSecurity
+	url = https://github.com/raandree/NTFSSecurity.git
