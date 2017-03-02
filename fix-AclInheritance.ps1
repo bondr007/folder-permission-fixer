@@ -1,11 +1,9 @@
-# Param(
-#     [String]$path,
-#     [String]$user,
-#     [String]$outfile = ".\outfile.csv"
-# )
-$path = "L:\samplepwn"
-$user = "nsuok.edu\bondr"
-outFile = "csv.csv"
+Param(
+    [String]$path,
+    [String]$user,
+    [String]$outfile = ".\outfile.csv"
+)
+
 #Import-Module -Name $PSScriptRoot\NTFSSecurity -Verbose
 #Import-Module $PSScriptRoot\NTFSSecurity
 
